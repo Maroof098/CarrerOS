@@ -1,0 +1,12 @@
+{
+  "name": "CareerOS",
+  "description": "A comprehensive career operating system for engineering students, featuring AI-powered roadmaps, project recommendations, and a dedicated mentor chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
